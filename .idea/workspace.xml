@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="362b43cb-c2b3-42e1-bced-b9524acccd62" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_5/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_4/index.html">
+        <entry file="file://$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_5/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="247">
+              <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -47,6 +47,7 @@
         <option value="$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_2/index.html" />
         <option value="$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_3/index.html" />
         <option value="$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_4/index.html" />
+        <option value="$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_5/index.html" />
       </list>
     </option>
   </component>
@@ -87,7 +88,7 @@
               <item name="webclient-2019-01-shinjong93" type="462c0819:PsiDirectoryNode" />
               <item name="ssjfnidf_wirjswe" type="462c0819:PsiDirectoryNode" />
               <item name="HW_2" type="462c0819:PsiDirectoryNode" />
-              <item name="2_4" type="462c0819:PsiDirectoryNode" />
+              <item name="2_5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,12 +160,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553667293952</updated>
       <workItem from="1553667302704" duration="2925000" />
-      <workItem from="1554789138365" duration="2312000" />
+      <workItem from="1554789138365" duration="2588000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5237000" />
+    <option name="totallyTimeSpent" value="5513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="676" y="0" width="697" height="775" extended-state="0" />
@@ -244,8 +245,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        <state relative-caret-position="304">
+          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssjfnidf_wirjswe/HW_2/2_5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
         </state>
       </provider>
     </entry>
